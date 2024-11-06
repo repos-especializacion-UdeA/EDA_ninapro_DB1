@@ -8,11 +8,7 @@ En construcción...
 
 ## Notebooks
 
-A continuación se describen los notebooks y como correrlos.
+El notebook se puede ejecutar siguiendo el siguiente [link](ME03%20-%20G12%20-%20[70698438]-[98583652].ipynb)
 
-1. [01_merge_databases.ipynb](01_merge_databases.ipynb)
-2. [02_preprocess_raw_signal.ipynb](02_preprocess_raw_signal.ipynb)
-3. [03_features_extraction.ipynb](03_features_extraction.ipynb)
-4. [04_features_EDA.ipynb](04_features_EDA.ipynb)
 
 
