@@ -24,3 +24,5 @@ El notebook que realiza el procedimiento completo se encuentra en el siguiente [
      * **Formato html**: [report_EDA.html](./html_report/report_EDA.html)
      * **Formato json**: [report_EDA.json](./json_report/report_EDA.json)
 6. Conclusiones y trabajo futuro.
+
+Para visualizar la pagina con el EDA asociado a los datos visite la URL: https://repos-especializacion-udea.github.io/EDA_ninapro_DB1/
